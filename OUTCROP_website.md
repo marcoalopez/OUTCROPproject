@@ -1,14 +1,14 @@
 
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022/01/01_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022/01/20_
 
 **The OUTCROP project at a glance**
 
-The OUTCROP project stands for
-
-_From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**r**operties and water c**o**ntent of the Cabo Ortegal com**p**lex_
-
-This is a research project funded by the PCTI-Asturias (Spain) starting in December 2021 and led by Marco A. Lopez-Sanchez at Uniovi. We aim to determine the typical seismic properties (wave speeds & anisotropy) and water content of a volcanic arc root section (lower crust and mantle), a key building block in the formation of the continental crust. For the seismic properties we use a two-step approach, performing direct measures in exhumed deep rocks and the estimate their properties at such... For water tracing, FTIR and for the first time LIBS spectroscopy. The core team is based at University of Oviedo and the IACT-CSIC in Granada with collaborations from Geosciences Montpellier (France) and the UMA.
+> The OUTCROP project stands for
+>
+>_From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**r**operties and water c**o**ntent of the Cabo Ortegal com**p**lex_
+>
+>This is a research project funded by the PCTI-Asturias (Spain) starting in December 2021 and led by Marco A. Lopez-Sanchez at Uniovi. We aim to determine the typical seismic properties (wave speeds & anisotropy) and water content of a volcanic arc root section (lower crust and mantle), a key building block in the formation of the continental crust. For the seismic properties we use a two-step approach, performing direct measures in exhumed deep rocks and the estimate their properties at such... For water tracing, FTIR and for the first time LIBS spectroscopy. The core team is based at University of Oviedo and the IACT-CSIC in Granada with collaborations from Geosciences Montpellier (France) and the UMA.
 
 [TOC]
 
@@ -58,7 +58,7 @@ In a nutshell, with the outcomes of the OUTCROP project, we will be able to answ
 
 
 
-
+![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/logos_web.jpg)
 
 ---
 
