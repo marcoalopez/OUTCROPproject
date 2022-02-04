@@ -1,5 +1,3 @@
-
-
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/CaboOrtegal_v1.webp)
 
 _Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022/02/02_
