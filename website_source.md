@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/CaboOrtegal_v1.webp)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022/02/13_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022/02/21_
 
 **The OUTCROP project at a glance**
 
@@ -8,7 +8,7 @@ _Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last upda
 >
 >_From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**r**operties, anisotropy, and water c**o**ntent of the Cabo Ortegal com**p**lex_
 >
->This is a research project funded by a Margarita Salas ESTABILIZACIÓN grant from the [PCTI-Asturias](http://www.ficyt.es/pcti/index.asp) (Spain) started in December 2021 and led by Marco A. Lopez-Sanchez (PI) at the [University of Oviedo](https://www.uniovi.es/en/inicio). We aim to determine the average seismic properties (wave speeds & anisotropy) and water content of a volcanic arc root section (lower crust and mantle), a key building block in the assembly of the continental crust where these parameters are not well constrained. To determine the seismic properties, we use a two-step approach combining direct measurements on rocks exhumed from the lower crust and the lithospheric mantle and then determining average rock properties at depth from model rocks using direct measurements and thermodynamic equilibrium modelling. For water tracing, we will use [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy) and, in a pioneering way, [LIBS](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy) spectroscopy on nominally anhydrous minerals (NAMs). The core team is shared between the University of Oviedo (Asturias, Spain) and the IACT-CSIC in Granada (Spain) with collaborations from Geosciences Montpellier (France) and the University of Málaga (Spain).
+>This is a research project funded by a Margarita Salas ESTABILIZACIÓN grant from the [PCTI-Asturias](http://www.ficyt.es/pcti/index.asp) (Spain) started in December 2021 and led by Marco A. Lopez-Sanchez (PI) at the [University of Oviedo](https://www.uniovi.es/en/inicio). We aim to determine the average seismic properties (wave speeds & anisotropy) and water content of a volcanic arc root section (lower crust and mantle), a key building block in the assembly of the continental crust where these parameters are not well constrained. To determine the seismic properties, we use a two-step approach combining direct measurements on rocks exhumed from the lower crust and the lithospheric mantle and determining average rock properties at depth from model rocks using thermodynamic equilibrium modelling. For water tracing, we will use [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy) and, in a pioneering way, [LIBS](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy) spectroscopy on nominally anhydrous minerals (NAMs). The core team is shared between the University of Oviedo (Asturias, Spain) and the IACT-CSIC in Granada (Spain) with collaborations from Geosciences Montpellier (France) and the University of Málaga (Spain).
 
 [TOC]
 
@@ -70,7 +70,7 @@ Available soon
 
 
 
-## Personnel
+## Team
 
 <img src="https://github.com/marcoalopez/OUTCROPproject/blob/main/figures/Marco.jpg?raw=true" align=left style="zoom:67%;" />
 
@@ -92,7 +92,7 @@ Available soon
 
 **José A. Padrón-Navarta** (PhD in Geology, 2010, Granada) is a Ramón y Cajal (RyC) research fellow at the IACT-CSIC and a CNRS researcher at Géosciences Montpellier expert in phase equilibria and metamorphism of ultramafic rocks, fluid-rock interactions, and NAMs. After his PhD, he spent nearly four years in several postdoctoral positions (UGR, ANU Research School of Earth Sciences, Geosciences Montpellier) including an MSCA global fellowship. He obtained a full-time researcher position at the CNRS in 2014 (Géosciences Montpellier) and moved to IACT-CSIC in 2020 with an RyC fellowship. Within the OUTCROP project, he leads the FTIR analysis, metamorphic interpretation, and thermodynamic modelling (Perple_X).
 
-**Personal website**:  
+**Personal website**:  https://orcid.org/0000-0003-1005-0012
 
 
 
