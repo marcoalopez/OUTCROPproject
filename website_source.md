@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/CaboOrtegal_v1.webp)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022/02/23_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022/02/25_
 
 **The OUTCROP project at a glance**
 
@@ -8,7 +8,7 @@ _Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last upda
 >
 >_From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**r**operties, anisotropy, and water c**o**ntent of the Cabo Ortegal com**p**lex_
 >
->This is a research project funded by a Margarita Salas ESTABILIZACIÓN grant from the [PCTI-Asturias](http://www.ficyt.es/pcti/index.asp) (Spain) started in December 2021 and led by Marco A. Lopez-Sanchez at the [University of Oviedo](https://www.uniovi.es/en/inicio). We aim to determine the average seismic properties (wave speeds & anisotropy) and water content of a volcanic arc root section (lower crust and mantle), a key building block in the assembly of the continental crust where these parameters are not well constrained. To determine the seismic properties, we use a two-step approach combining direct measurements on rocks exhumed from the lower crust and the lithospheric mantle and determining average rock properties at depth from model rocks using thermodynamic equilibrium modelling. For water tracing, we will use [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy) and, in a pioneering way, [LIBS](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy) spectroscopy on nominally anhydrous minerals (NAMs). The core team is shared between the University of Oviedo (Asturias, Spain) and the IACT-CSIC in Granada (Spain) with collaborations from Geosciences Montpellier (France) and the University of Málaga (Spain).
+>This is a research project funded by a [Margarita Salas Retención grant](http://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0298) from the [PCTI-Asturias](http://www.ficyt.es/pcti/index.asp) (Spain) started in December 2021 and led by Marco A. Lopez-Sanchez at the [University of Oviedo](https://www.uniovi.es/en/inicio). We aim to determine the average seismic properties (wave speeds & anisotropy) and water content of a volcanic arc root section (lower crust and mantle), a key building block in the assembly of the continental crust where these parameters are not well constrained. To determine the seismic properties, we use a two-step approach combining direct measurements on rocks exhumed from the lower crust and the lithospheric mantle and determining average rock properties at depth from model rocks using thermodynamic equilibrium modelling. For water tracing, we will use [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy) and, in a pioneering way, [LIBS](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy) spectroscopy on nominally anhydrous minerals (NAMs). The core team is shared between the University of Oviedo (Asturias, Spain) and the IACT-CSIC in Granada (Spain) with collaborations from Geosciences Montpellier (France) and the University of Málaga (Spain).
 
 [TOC]
 
@@ -100,7 +100,9 @@ Available soon
 
 
 
-> A broader list of people available soon !  
+### Collaborators
+
+> A list of people available soon !  
 
 
 
