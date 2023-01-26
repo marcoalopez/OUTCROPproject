@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/CaboOrtegal_v1.webp)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022-05-25_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2023-01-26_
 
 **The OUTCROP project at a glance**
 
@@ -76,11 +76,11 @@ Available soon
 
 
 
-## Team
+## Core team
 
 <img src="https://github.com/marcoalopez/OUTCROPproject/blob/main/figures/Marco.jpg?raw=true" align=left style="zoom:67%;" />
 
-**Marco A. Lopez-Sanchez** (PhD in Geology, 2013, Oviedo) is a fixed-term hired researcher at the Department of Geology of the University of Oviedo. He has five years of postdoctoral experience, four of which have been in the *Manteau et Interfaces* research group at Geosciences Montpellier (France) as a CNRS researcher including an MSCA-COFUND grant. Marco is an expert in microstructure and texture (CPO) analysis of solid materials (rocks, minerals, alloys) using Electron Backscatter Diffraction (EBSD), image analysis, and digital image correlation (DIC) techniques, the development of _in situ_ and _ex situ_ experimental methods, and modelling rock elastic properties (e.g. seismic wave speeds and anisotropy). He also has extensive experience in programming (Python, Matlab) and code development for data analysis (https://github.com/marcoalopez). By 2022, he begins a new stage in his career as a researcher in Spain to develop the project OUTCROP as principal investigator.
+**Marco A. Lopez-Sanchez** (PhD in Geology, 2013, Oviedo) is a fixed-term hired researcher at the Department of Geology of the University of Oviedo. He has six years of postdoctoral experience, four of which have been in the *Manteau et Interfaces* research group at Geosciences Montpellier (France) as a CNRS researcher including an MSCA-COFUND grant. Marco is an expert in microstructure and texture (CPO) analysis of solid materials (rocks, minerals, alloys) using Electron Backscatter Diffraction (EBSD), image analysis, and digital image correlation (DIC) techniques, the development of _in situ_ and _ex situ_ experimental methods, and modelling rock elastic properties (e.g. seismic wave speeds and anisotropy). He also has extensive experience in programming (Python, Matlab) and code development for data analysis (https://github.com/marcoalopez). By 2022, he begins a new stage in his career as a researcher in Spain to develop the project OUTCROP as principal investigator.
 
 **Personal website**: https://marcoalopez.github.io/  
 
@@ -88,7 +88,7 @@ Available soon
 
 <img src="https://github.com/marcoalopez/OUTCROPproject/blob/main/figures/Sergio.jpg?raw=true" style="zoom:67%;" align=left />
 
-**Sergio Llana-Fúnez** (PhD in Geology, 1999, Oviedo) is a lecturer in geodynamics in the Department of Geology at the University of Oviedo expert in rock deformation, crustal structure and tectonics of orogens, and microstructural analysis. After his PhD, Sergio spent nearly ten years in several postdoctoral positions (ETH Zürich, University of Manchester and University of Liverpool) including MSCA and NERC Postdoctoral grants. He returned to Oviedo holding a Ramón y Cajal fellowship in 2009. He led 10 research projects and was the Head of the Department of Geology at the University of Oviedo between 2016 and 2018.  Sergio has published five papers on the Cabo Ortegal complex, two of which related to their seismic properties, several geological field guides of the area, and he is the co-author of a detailed geological map of the Cabo Ortegal complex in 2002.
+**Sergio Llana-Fúnez** (PhD in Geology, 1999, Oviedo) is a lecturer in geodynamics in the Department of Geology at the University of Oviedo expert in rock deformation, crustal structure and tectonics of orogens, and microstructural analysis. After his PhD, Sergio spent nearly ten years in several postdoctoral positions (ETH Zürich, University of Manchester and University of Liverpool) including MSCA and NERC Postdoctoral grants. He returned to Oviedo holding a Ramón y Cajal fellowship in 2009. He led 10 research projects and was the Head of the Department of Geology at the University of Oviedo between 2016 and 2018.  Sergio has published five papers on the Cabo Ortegal complex, two of which related to its seismic properties, several geological field guides of the area, and co-authored a detailed geological map of the Cabo Ortegal complex in 2002.
 
 **Personal website**:  http://orcid.org/0000-0002-8748-5623  
 
@@ -96,13 +96,17 @@ Available soon
 
 <img src="https://github.com/marcoalopez/OUTCROPproject/blob/main/figures/JAPN.jpg?raw=true" style="zoom:67%;" align=left />
 
-**José A. Padrón-Navarta** (PhD in Geology, 2010, Granada) is a Ramón y Cajal (RyC) research fellow at the IACT-CSIC and a CNRS researcher at Géosciences Montpellier expert in phase equilibria and metamorphism of ultramafic rocks, fluid-rock interactions, and NAMs. After his PhD, he spent nearly four years in several postdoctoral positions (UGR, ANU Research School of Earth Sciences, Geosciences Montpellier) including an MSCA global fellowship. He obtained a full-time researcher position at the CNRS in 2014 (Géosciences Montpellier) and moved to IACT-CSIC in 2020 with an RyC fellowship. Within the OUTCROP project, he leads the FTIR analysis, metamorphic interpretation, and thermodynamic modelling (Perple_X).
+**José A. Padrón-Navarta** (PhD in Geology, 2010, Granada) is a Ramón y Cajal (RyC) research fellow at the IACT-CSIC and a CNRS researcher at Géosciences Montpellier expert in phase equilibria and metamorphism of ultramafic rocks, fluid-rock interactions, and NAMs. After his PhD, he spent nearly four years in several postdoctoral positions (UGR, ANU Research School of Earth Sciences, Geosciences Montpellier) including an MSCA global fellowship. He obtained a full-time researcher position at the CNRS in 2014 (Géosciences Montpellier) and moved to IACT-CSIC in 2020 with an RyC fellowship. Within the OUTCROP project, he leads the FTIR analysis and guides the metamorphic interpretation and thermodynamic modelling.
 
-**Personal website**:  https://orcid.org/0000-0003-1005-0012
+**Personal website**:  https://www.iact.ugr-csic.es/personal/perfil/jose-alberto-padron-navarta/
 
 
 
 ### Collaborators
+
+**Andréa Tommasi** (PhD in Geology, 1995, Montpellier) is a CNRS reseracher in Earth Sciences at Geosciences Montpellier specialising in the processes controlling the deformation of the Earth's interior, from the crystal to the plate tectonic scale, and the relations between mantle flow and the anisotropy of its physical properties.
+
+**Personal website**: http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html
 
 > A list of people available soon !  
 
@@ -112,7 +116,7 @@ Available soon
 
 ---
 
-Copyright © 2022 Marco A. Lopez-Sanchez  
+Copyright © 2023 Marco A. Lopez-Sanchez  
 
 _Information presented on this website is provided without any express or implied warranty and may include technical inaccuracies or typing errors; the author reserve the right to modify or enhance the content of this website at any time without previous notice. This webpage is not liable for the content of external links._  
 
