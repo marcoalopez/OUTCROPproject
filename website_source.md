@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/CaboOrtegal_v1.webp)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2023-01-26_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2023-03-22_
 
 **The OUTCROP project at a glance**
 
@@ -63,6 +63,14 @@ The COC rock sequence records changes in mineralogy and microstructure due to th
 Available soon
 
 
+
+## Talks
+
+#### Invited keynote speaker of MTEX Workshop 2023 (Freiberg, Germany, 2023-03-14)
+
+https://mtex-toolbox.github.io/workshop23
+
+![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/keynoteMtex.png)
 
 ## Codes released
 
