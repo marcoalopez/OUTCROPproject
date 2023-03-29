@@ -50,7 +50,7 @@ The general structure, local composition, deformation/metamorphic sequence, and 
 
 
 
-<img src="figures/figure_1.png" style="zoom: 47%;" />
+![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/figure_1.jpg)
 
 **Figure 2.** *(a) Location of the Cabo Ortegal complex. (b) Geological map of the HP-HT units showing the rock sequence and peak P-T conditions. (c) Geological cross-section along the Uzal massif after Marcos et al. (d) Simplified P-T grid with eclogite, granulite and amphibolite facies for Si-rich mafic compositions. Coloured field corresponds to the HP granulites stability field. Mineral content in equilibrium listed in each field. The inferred metamorphic path and events of the HP rocks are in red.*
 
@@ -74,7 +74,7 @@ https://mtex-toolbox.github.io/workshop23
 
 ## Codes released
 
-[PyRockWave](https://github.com/marcoalopez/PyRockWave) (**in development**): a tool for the analysis of elastic properties of rocks and minerals and modelling wave speeds based on physical properties (elastic tensor, density, crystal preferred orientation) and averaging schemes  
+[PyRockWave](https://github.com/marcoalopez/PyRockWave) (**in development**): a Python-based tool for the analysis of elastic properties of rocks and minerals and modelling wave speeds based on physical properties (elastic tensor, density, crystal preferred orientation) and averaging schemes  
 
 more info: https://github.com/marcoalopez/PyRockWave
 
