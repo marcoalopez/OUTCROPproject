@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/CaboOrtegal_v1.webp)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2023-03-22_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2023-03-29_
 
 **The OUTCROP project at a glance**
 
@@ -52,9 +52,9 @@ The general structure, local composition, deformation/metamorphic sequence, and 
 
 <img src="figures/figure_1.png" style="zoom: 47%;" />
 
-**Figure 2.** *(a) Location of the Cabo Ortegal complex. (b) Geological map of the HP-HT units showing the rock sequence and peak P-T conditions. (c) Geological cross-section along the Uzal massif. (d) Simplified P-T grid with eclogite, granulite and amphibolite facies for Si-rich mafic compositions. Coloured field corresponds to the HP granulites stability field. Mineral content in equilibrium listed in each field. The metamorphic path and events of the HP rocks are in red.*
+**Figure 2.** *(a) Location of the Cabo Ortegal complex. (b) Geological map of the HP-HT units showing the rock sequence and peak P-T conditions. (c) Geological cross-section along the Uzal massif after Marcos et al. (d) Simplified P-T grid with eclogite, granulite and amphibolite facies for Si-rich mafic compositions. Coloured field corresponds to the HP granulites stability field. Mineral content in equilibrium listed in each field. The inferred metamorphic path and events of the HP rocks are in red.*
 
-The COC rock sequence records changes in mineralogy and microstructure due to the exhumation. Peak pressure and temperature conditions, metamorphic events, and mineral assemblages are summarized in figure 2d. Mantle rocks show pervasive [serpentinization](https://en.wikipedia.org/wiki/Serpentinite) with the original microstructure locally preserved. Lower crustal rocks record three major metamorphic events (Fig. 2d). High-_P_ granulites in contact with mantle rocks, referred to as massive granulites, preserve eclogite (high-_P_ high-_T_ rocks) lenses that record the highest pressure conditions (event M1), later transformed into granulites (event M2) characterized by the presence of garnet, clinopyroxene, plagioclase and the lack of orthopyroxene. Above these, i.e. further away from the Moho, there are layered granulites made up of minerals characteristic of more moderate pressures and temperatures (e.g. hornblende) referred to as the metamorphic event M3 induced by the rock exhumation process (Fig. 2d), yet partially preserving the high-_P_ mineral assemblages representing the event M2. Plastic deformation causing the layering and the strong resetting of preferred orientation of the minerals mainly occurred at the transition from M2 to M3 event. Data on water content on NAMs formed during the *high-_P_ high-_T_* metamorphism is yet to be reported. Overall, the local preservation of high-pressure mineral assemblages and microstructure and the state-of-the-art on the general COC metamorphism make these rocks an exceptional target to study how the seismic response varies during exhumation of the lower crust. We will focus the collection of samples on the Uzal area (Fig. 2b), where the lower crust section and the Moho outcrops with the best conditions.
+The COC rock sequence records changes in mineralogy and microstructure due to the exhumation. Peak pressure and temperature conditions, metamorphic events, and mineral assemblages are summarized in figure 2d. Mantle rocks show pervasive [serpentinization](https://en.wikipedia.org/wiki/Serpentinite) with the original microstructure locally preserved. Lower crustal rocks record three major metamorphic events (Fig. 2d). High-_P_ granulites in contact with mantle rocks, referred to as the lower member of Bacariza formation or massive granulites, are mainly composed of the so-called pyrigarnites (Vogel, 1967) and hornblendites record the highest pressure conditions (event M1), later transformed into HP granulites (event M2) characterized by the presence of garnet, clinopyroxene, ±plagioclase and the lack of orthopyroxene. Above these, i.e. further away from the Moho, there are Opx-free layered granulites (upper member of Bacariza formation) (Fig. 2d). Plastic deformation causing the layering and the strong resetting of preferred orientation of the minerals mainly occurred at the transition from M2 to M3 event. Data on water content on NAMs formed during the *high-_P_ high-_T_* metamorphism is yet to be reported. Overall, the local preservation of high-pressure mineral assemblages and microstructure and the state-of-the-art on the general COC metamorphism make these rocks an exceptional target to study how the seismic response varies during exhumation of the lower crust. We will focus the collection of samples on the Uzal area (Fig. 2b), where the lower crust section and the Moho outcrops with the best conditions.
 
 
 
@@ -74,7 +74,9 @@ https://mtex-toolbox.github.io/workshop23
 
 ## Codes released
 
-Available soon
+[PyRockWave](https://github.com/marcoalopez/PyRockWave) (**in development**): a tool for the analysis of elastic properties of rocks and minerals and modelling wave speeds based on physical properties (elastic tensor, density, crystal preferred orientation) and averaging schemes  
+
+more info: https://github.com/marcoalopez/PyRockWave
 
 
 
