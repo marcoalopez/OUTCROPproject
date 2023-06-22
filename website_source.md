@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/CaboOrtegal_v1.webp)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2023-03-29_
+Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2023-06-22
 
 **The OUTCROP project at a glance**
 
@@ -8,7 +8,7 @@ _Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last upda
 >
 >_From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**r**operties, anisotropy, and water c**o**ntent of the Cabo Ortegal com**p**lex_
 >
->This is a research project funded by a [Margarita Salas Retención grant](http://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0298) from the [PCTI-Asturias](http://www.ficyt.es/pcti/index.asp) (Spain) started in December 2021 and led by Marco A. Lopez-Sanchez at the [University of Oviedo](https://www.uniovi.es/en/inicio). We aim to determine the average seismic properties (wave speeds & anisotropy) and water content of a volcanic arc root section (lower crust and mantle), a key building block in the assembly of the continental crust where these parameters are not well constrained. To determine the seismic properties, we use a two-step approach combining direct measurements on rocks exhumed from the lower crust and the mantle and determining average rock properties (density, mineral content) at depth using thermodynamic equilibrium modelling. For water tracing, we will use [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy) and, in a pioneering way, [LIBS](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy) spectroscopy on nominally anhydrous minerals (NAMs). The core team is shared between the University of Oviedo (Asturias, Spain) and the IACT-CSIC in Granada (Spain) with collaborations from Geosciences Montpellier (France) and the University of Málaga (Spain).
+>This is a research project funded by a [Margarita Salas Retención grant](http://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0298) from the [PCTI-Asturias](http://www.ficyt.es/pcti/index.asp) (Spain) started in December 2021 and led by Marco A. Lopez-Sanchez at the [University of Oviedo](https://www.uniovi.es/en/inicio). We aim to determine the average seismic properties (wave speeds & anisotropy) and water content of an ancient volcanic arc root section (lower crust and mantle), a key building block in the assembly of the continental crust where these parameters are not well constrained. To determine the seismic properties, we use a two-step approach combining direct measurements on rocks exhumed from the lower crust and the mantle and determining average rock properties (density, mineral content) at depth using thermodynamic equilibrium modelling. For water tracing, we will use [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy) and, in a pioneering way, [LIBS](https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy) spectroscopy on nominally anhydrous minerals (NAMs). The core team is shared between the University of Oviedo (Asturias, Spain) and the IACT-CSIC in Granada (Spain) with collaborations from Geosciences Montpellier (France).
 
 [TOC]
 
@@ -64,6 +64,14 @@ Available soon
 
 
 
+## Codes released
+
+[PyRockWave](https://github.com/marcoalopez/PyRockWave) (**in active development**): a Python-based tool for the analysis of elastic properties of rocks and minerals and modelling wave speeds based on physical properties (elastic tensor, density, crystal preferred orientation) and averaging schemes  
+
+more info: https://marcoalopez.github.io/PyRockWave/
+
+
+
 ## Talks
 
 #### Invited keynote speaker of MTEX Workshop 2023 (Freiberg, Germany, 2023-03-14)
@@ -71,12 +79,6 @@ Available soon
 https://mtex-toolbox.github.io/workshop23
 
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/keynoteMtex.png)
-
-## Codes released
-
-[PyRockWave](https://github.com/marcoalopez/PyRockWave) (**in development**): a Python-based tool for the analysis of elastic properties of rocks and minerals and modelling wave speeds based on physical properties (elastic tensor, density, crystal preferred orientation) and averaging schemes  
-
-more info: https://github.com/marcoalopez/PyRockWave
 
 
 
@@ -106,7 +108,7 @@ Available soon
 
 <img src="https://github.com/marcoalopez/OUTCROPproject/blob/main/figures/JAPN.jpg?raw=true" style="zoom:67%;" align=left />
 
-**José A. Padrón-Navarta** (PhD in Geology, 2010, Granada) is a Ramón y Cajal (RyC) research fellow at the IACT-CSIC and a CNRS researcher at Géosciences Montpellier expert in phase equilibria and metamorphism of ultramafic rocks, fluid-rock interactions, and NAMs. After his PhD, he spent nearly four years in several postdoctoral positions (UGR, ANU Research School of Earth Sciences, Geosciences Montpellier) including an MSCA global fellowship. He obtained a full-time researcher position at the CNRS in 2014 (Géosciences Montpellier) and moved to IACT-CSIC in 2020 with an RyC fellowship. Within the OUTCROP project, he leads the FTIR analysis and guides the metamorphic interpretation and thermodynamic modelling.
+**José A. Padrón-Navarta** (PhD in Geology, 2010, Granada) is a tenured scientist at the IACT-CSIC (Spain) and a CNRS researcher at Géosciences Montpellier (France) expert in phase equilibria and metamorphism of ultramafic rocks, fluid-rock interactions, and NAMs. After his PhD, he spent nearly four years in several postdoctoral positions (UGR, ANU Research School of Earth Sciences, Geosciences Montpellier) including an MSCA global fellowship. He obtained a full-time researcher position at the CNRS in 2014 (Géosciences Montpellier) and moved to IACT-CSIC (Granada, Spain) in 2020 with an RyC fellowship. Within the OUTCROP project he supervises FTIR analysis, metamorphic interpretation and thermodynamic modelling.
 
 **Personal website**:  https://www.iact.ugr-csic.es/personal/perfil/jose-alberto-padron-navarta/
 
@@ -114,11 +116,9 @@ Available soon
 
 ### Collaborators
 
-**Andréa Tommasi** (PhD in Geology, 1995, Montpellier) is a CNRS reseracher in Earth Sciences at Geosciences Montpellier specialising in the processes controlling the deformation of the Earth's interior, from the crystal to the plate tectonic scale, and the relations between mantle flow and the anisotropy of its physical properties.
+**Andréa Tommasi** (PhD in Geology, 1995, Montpellier) is a CNRS senior researcher in Earth Sciences at Geosciences Montpellier specialising in the processes controlling the deformation of the Earth's interior, from the crystal to the plate tectonic scale, and the relations between mantle flow and the anisotropy of its physical properties. Within the OUTCROP project she contributes with her in-depth knowledge of mantle processes..
 
 **Personal website**: http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html
-
-> A list of people available soon !  
 
 
 
