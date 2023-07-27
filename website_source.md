@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/CaboOrtegal_v1.webp)
 
-Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2023-07-21
+Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2023-07-27
 
 **The OUTCROP project at a glance**
 
@@ -61,6 +61,8 @@ Available soon
 
 
 ## Codes and databases
+
+![header](https://raw.githubusercontent.com/marcoalopez/PyRockWave/main/img/header.jpg)
 
 [PyRockWave](https://github.com/marcoalopez/PyRockWave) (**in active development**): a Python-based tool for the analysis of elastic properties of rocks and minerals and modelling wave speeds based on physical properties (elastic tensor, density, crystal preferred orientation) and averaging schemes  
 
