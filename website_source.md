@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/CaboOrtegal_v1.webp)
 
-Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2024-01-12
+Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2024-06-19
 
 **The OUTCROP project at a glance**
 
@@ -8,7 +8,7 @@ Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last updat
 >
 >_From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**r**operties, anisotropy, and water c**o**ntent of the Cabo Ortegal com**p**lex_
 >
->This is a research project funded by the [PCTI-Asturias](https://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0367T01) (Spain) started in December 2021 and led by Marco A. Lopez-Sanchez at the [University of Oviedo](https://www.uniovi.es/en/inicio). We aim to determine the average seismic properties (wave speeds & anisotropy) and water content of an ancient volcanic arc root section (lower crust and mantle), a key building block in the assembly of the continental crust where these parameters are not well constrained. To determine the seismic properties, we use a two-step approach combining direct measurements on rocks exhumed from the lower crust and the mantle and determining average rock properties (density, mineral content) at depth using thermodynamic equilibrium modelling. For water tracing, we will use [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy) on nominally anhydrous minerals (NAMs). The core team is shared between the University of Oviedo (Asturias, Spain) and the IACT-CSIC in Granada (Spain) with collaborations from Geosciences Montpellier (France).
+>This is a research project funded by the [PCTI-Asturias](https://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0367T01) (Spain) starting in December 2021 and led by Marco A. Lopez-Sanchez at the [University of Oviedo](https://www.uniovi.es/en/inicio). We aim to determine the seismic properties (wave speeds & anisotropy) and water content of an ancient volcanic arc root section (lower crust and mantle), a key building block in the assembly of the continental crust, where these parameters are not well constrained. To determine the seismic properties, we use a two-step approach combining direct measurements on rocks exhumed from the lower crust and the mantle, and the determination of average rock properties (density, mineral content) at depth using thermodynamic equilibrium modelling. For water tracing, we will use [FTIR](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy) on nominally anhydrous minerals (NAMs). The core team is shared between the University of Oviedo (Asturias, Spain) and the IACT-CSIC in Granada (Spain) with collaboration from Geosciences Montpellier (France).
 
 [TOC]
 
@@ -126,7 +126,7 @@ Available soon
 
 ---
 
-Copyright © 2023 Marco A. Lopez-Sanchez  
+Copyright © 2021-2024 Marco A. Lopez-Sanchez  
 
 _Information presented on this website is provided without any express or implied warranty and may include technical inaccuracies or typing errors; the author reserve the right to modify or enhance the content of this website at any time without previous notice. This webpage is not liable for the content of external links._  
 
