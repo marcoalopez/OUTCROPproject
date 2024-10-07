@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/CaboOrtegal_v1.webp)
 
-Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2024-06-19
+Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2024-10-07
 
 **The OUTCROP project at a glance**
 
@@ -56,7 +56,23 @@ The COC rock sequence records changes in mineralogy and microstructure due to th
 
 ## Publications
 
-Available soon
+### Meeting proceedings
+
+Lopez-Sanchez, M.A., Padrón-Navarta, J.A., 2024. A new method for calculating olivine crystal orientation using polarized FTIR spectroscopy. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
+
+Lopez-Sanchez, M.A., 2024. PyRockWave: a new open-source Python tool for reading elasticity databases and modeling the elastic properties of Earth materials. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
+
+Llana-Fúnez, S., Lopez-Sanchez M.A., 2024. Advance in geological knowledge of the Cabo Ortegal Complex through its geological maps. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
+
+Lopez-Sanchez, M.A., 2023. Seismic modelling using EBSD data: why, how, limitations and good practices. _Freiberg MTEX Workshop_. **Invited keynote speaker**. https://mtex-toolbox.github.io/workshop23
+
+### Papers
+
+Lopez-Sanchez M.A., Cárdenes, V., Barou, F., Llana-Fúnez, S. 2024 *Predictive modelling of seismic properties in single-foliated slates*. EarthArXiv preprint: https://doi.org/10.31223/X5RM4Z
+
+### Other publications
+
+Tilhac, R., Lopez-Sanchez, M.A., Llana-Fúnez, S., Padrón-Navarta, J.A., 2024. Field guide to the mantle section of the Cabo Ortegal Complex. Available from https://github.com/lherzolite2024/fieldguide/
 
 
 
