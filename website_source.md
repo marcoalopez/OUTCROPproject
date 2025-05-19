@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/OUTCROPproject/main/figures/CaboOrtegal_v1.webp)
 
-Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2024-10-07
+Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2025-05-19
 
 **The OUTCROP project at a glance**
 
@@ -66,7 +66,9 @@ Lopez-Sanchez, M.A., 2023. Seismic modelling using EBSD data: why, how, limitati
 
 ### Papers
 
-Lopez-Sanchez M.A., Cárdenes, V., Barou, F., Llana-Fúnez, S. 2024 *Predictive modelling of seismic properties in single-foliated slates*. EarthArXiv preprint: https://doi.org/10.31223/X5RM4Z
+**Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S, 2025. Predictive modelling of seismic properties in single-foliated slates. *Tectonophysics* **908**: 230765. https://doi.org/10.1016/j.tecto.2025.230765 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2025_Tecto_Lopez-Sanchez_slates.pdf)
+
+two new articles in preparation!
 
 ### Other publications
 
@@ -140,7 +142,7 @@ https://mtex-toolbox.github.io/workshop23
 
 ---
 
-Copyright © 2021-2024 Marco A. Lopez-Sanchez  
+Copyright © 2021-present Marco A. Lopez-Sanchez  
 
 _Information presented on this website is provided without any express or implied warranty and may include technical inaccuracies or typing errors; the author reserve the right to modify or enhance the content of this website at any time without previous notice. This webpage is not liable for the content of external links._  
 
