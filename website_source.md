@@ -68,7 +68,7 @@ Lopez-Sanchez, M.A., 2023. Seismic modelling using EBSD data: why, how, limitati
 
 **Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S, 2025. Predictive modelling of seismic properties in single-foliated slates. *Tectonophysics* **908**: 230765. https://doi.org/10.1016/j.tecto.2025.230765 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2025_Tecto_Lopez-Sanchez_slates.pdf)
 
-two new articles in preparation!
+==two new articles in preparation!==
 
 ### Other publications
 
@@ -83,10 +83,6 @@ Tilhac, R., Lopez-Sanchez, M.A., Llana-Fúnez, S., Padrón-Navarta, J.A., 2024. 
 [PyRockWave](https://github.com/marcoalopez/PyRockWave) (**in active development**): a Python-based tool for the analysis of elastic properties of rocks and minerals and modelling wave speeds based on physical properties (elastic tensor, density, crystal preferred orientation) and averaging schemes  
 
 more info: https://marcoalopez.github.io/PyRockWave/
-
-The [Mineral Elastic Database (MED)]() is a database project on elastic properties of common rock-forming minerals born out of the OUTCROP project. This database differs from other existing ones in that it is a reactive database, i.e. a database consisting of functions that return the elastic properties of minerals under specific conditions set by the user. The idea is to provide an up-to-date, well-documented database of elastic properties with rigorous tracking of changes (key to reproducibility). You can see an example of how to access the database using the PyRockWave codes here: https://github.com/marcoalopez/PyRockWave/blob/main/src/example_database.ipynb.
-
-Both the PyRockWave tool and the database arose from the need to process data from the OUTCROP project, but will continue to be developed independently of this project in the future.
 
 ## Talks
 
